@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Library Management System",
+    "desc": "Keeps track of book orders, bills, and patrons who have borrowed items. It also manages the number of books, issued books, and more, using a MySQL database hosted on a XAMPP server with over 10,000 books.",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/php_mysql"
+    }
+  },
+  {
+    "name": "Botanic Image Analyzer",
+    "desc": "Machine learning-powered web app for identifying plant species and diagnosing leaf diseases. It uses image preprocessing, neural analysis, and Streamlit for user interaction.",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/Final-Year-project"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "Full-stack web app using Spring Boot and Thymeleaf for managing employee data. Features multi-tab forms and role-based login with enhanced UI via Bootstrap.",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/Employee_Management_System"
+    }
+  },
+  {
+    "name": "Landing Page",
+    "desc": "Clean and responsive homepage created using HTML and CSS during an internship at Txon IT Services.",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/TXON_01"
+    }
+  },
+  {
+    "name": "To Do List App",
+    "desc": "Interactive to-do list web app built using JavaScript during internship, allowing users to add, remove, and mark tasks as done.",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/TXON_3"
+    }
+  },
+  {
+    "name": "Calculator App",
+    "desc": "A basic yet functional calculator with a sleek interface, developed using HTML, CSS, and JavaScript.",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Shivansh7a8/TXON_2"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio consists of my projects, skills, and experiences, showcasing my work and achievements. ",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
